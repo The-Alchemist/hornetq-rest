@@ -12,8 +12,8 @@
     </connection-factory>
 
     <!--the queue used by the example-->
-    <queue name="orders">
-        <entry name="/queues/orders"/>
+    <queue name="kpQueue">
+        <entry name="queue/kpQueue"/>
     </queue>
 
 </configuration>

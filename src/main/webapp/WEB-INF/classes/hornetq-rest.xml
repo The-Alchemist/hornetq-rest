@@ -1,6 +1,6 @@
 <rest-messaging>
    <server-in-vm-id>0</server-in-vm-id>
-   <use-link-headers>false</use-link-headers>
+   <use-link-headers>true</use-link-headers>
    <default-durable-send>false</default-durable-send>
    <dups-ok>true</dups-ok>
    <topic-push-store-dir>topic-push-store</topic-push-store-dir>
